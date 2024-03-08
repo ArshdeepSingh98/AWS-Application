@@ -1,0 +1,9 @@
+aws_settings:
+  AWSAccessKeyID: ****
+  AWSDefaultRegion: us-east-1
+  AWSSecretAccessKey: ****
+  ImageId: ****
+  ImageUser: ubuntu
+  InstanceType: t2.micro
+  KeyName: ****
+  KeyPath: ~/.ssh/****
